@@ -1,0 +1,9 @@
+.button {
+    background-color: #f7931a;
+    border-radius: 5px;
+    border-color: azure;
+    padding: 10px 55px 10px 55px;
+    margin-left: 10px;
+    font-weight: bold;
+    color: whitesmoke;
+  }
